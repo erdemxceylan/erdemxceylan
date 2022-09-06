@@ -85,7 +85,7 @@
 <p>
    <img
       align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemxceylan&show_icons=true&locale=en&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemxceylan&show_icons=true&locale=en&layout=compact&theme=react"
       alt="erdemxceylan"
    />
 </p>
@@ -94,7 +94,7 @@
    &nbsp;
    <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=erdemxceylan&custom_title=Statistics&show_icons=true&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=erdemxceylan&custom_title=Statistics&show_icons=true&locale=en&theme=react"
       alt="erdemxceylan"
    />
 </p>
@@ -102,7 +102,7 @@
 <p>
    <img
       align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=erdemxceylan&"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=erdemxceylan&theme=react"
       alt="erdemxceylan"
    />
 </p>
