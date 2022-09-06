@@ -22,9 +22,6 @@ Also, I like to organize that work with a user-friendly and pretty interface.</p
             <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
             </a>
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-               <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-            </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
             </a>
@@ -37,6 +34,7 @@ Also, I like to organize that work with a user-friendly and pretty interface.</p
             <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
                <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
             </a>
+            <br/>
             <a href="https://nodejs.org" target="_blank" rel="noreferrer">
                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
             </a>
@@ -49,13 +47,17 @@ Also, I like to organize that work with a user-friendly and pretty interface.</p
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
             </a>
+            <br/>
+            <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+               <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+            </a>
             <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
                <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
             </a>
          </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemxceylan&theme=react&show_icons=true&locale=en&layout=compact" alt="erdemxceylan" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemxceylan&show_icons=true&locale=en&bg_color=HEX,#69EBFF,#69FFFD,#69FFE1,#69FFBB,#69FFAB,#69FF87,#70FF69,#32CD32" alt="erdemxceylan" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemxceylan&" alt="erdemxceylan" /></p>
