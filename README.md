@@ -56,8 +56,8 @@ Also, I like to organize that work with a user-friendly and pretty interface.</p
             </a>
          </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemxceylan&theme=react&show_icons=true&locale=en&layout=compact" alt="erdemxceylan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemxceylan&bg_color=45deg,#69EBFF,#69FFFD,#69FFE1,#69FFBB,#69FFAB,#69FF87,#70FF69,#32CD32&show_icons=true&locale=en&layout=compact" alt="erdemxceylan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemxceylan&show_icons=true&locale=en&bg_color=45deg,#69EBFF,#69FFFD,#69FFE1,#69FFBB,#69FFAB,#69FF87,#70FF69,#32CD32" alt="erdemxceylan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemxceylan&show_icons=true&locale=en" alt="erdemxceylan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemxceylan&" alt="erdemxceylan" /></p>
