@@ -1,3 +1,9 @@
+<h3 align="left">About</h3>
+<h5>Hello,</h5>
+<p>I’m interested in web programming.</p>
+<p>I like to solve life problems with mathematical modeling and computer science.</p>
+<p>Also, I like to organize that work with a user-friendly and pretty interface.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erdemceylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdemceylan" height="30" width="40" /></a>
