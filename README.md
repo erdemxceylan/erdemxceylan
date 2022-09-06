@@ -1,8 +1,8 @@
 <h3 align="left">About</h3>
-<h5>Hello,</h5>
-<p>I’m interested in web programming.</p>
-<p>I like to solve life problems with mathematical modeling and computer science.</p>
-<p>Also, I like to organize that work with a user-friendly and pretty interface.</p>
+<p>Hello,
+I’m interested in web programming.
+I like to solve life problems with mathematical modeling and computer science.
+Also, I like to organize that work with a user-friendly and pretty interface.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
