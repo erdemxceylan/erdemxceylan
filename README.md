@@ -1,4 +1,4 @@
-<h3 align="left">About</h3>
+## About
 <p>
    Hello,<br />
    I’m interested in web programming.<br />
@@ -37,7 +37,7 @@
    </a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+## Languages and Tools
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
